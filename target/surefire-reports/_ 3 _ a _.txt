@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: | 3 | a |
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 6, Skipped: 3, Time elapsed: 0.226 s <<< FAILURE! - in | 3 | a |
+Given user adds "3" and "a"(| 3 | a |)  Time elapsed: 0.002 s  <<< ERROR!
+cucumber.deps.com.thoughtworks.xstream.converters.ConversionException: 
+Couldn't convert "a" to an instance of: [class java.lang.Integer, int]
+---- Debugging information ----
+-------------------------------
+
+| 3 | a |  Time elapsed: 0 s  <<< ERROR!
+cucumber.deps.com.thoughtworks.xstream.converters.ConversionException: 
+Couldn't convert "a" to an instance of: [class java.lang.Integer, int]
+---- Debugging information ----
+-------------------------------
+
+Given user adds "3" and "a"(| 3 | a |)  Time elapsed: 0 s  <<< ERROR!
+cucumber.deps.com.thoughtworks.xstream.converters.ConversionException: 
+Couldn't convert "a" to an instance of: [class java.lang.Integer, int]
+---- Debugging information ----
+-------------------------------
+
+| 3 | a |  Time elapsed: 0 s  <<< ERROR!
+cucumber.deps.com.thoughtworks.xstream.converters.ConversionException: 
+Couldn't convert "a" to an instance of: [class java.lang.Integer, int]
+---- Debugging information ----
+-------------------------------
+
+Given user adds "3" and "a"(| 3 | a |)  Time elapsed: 0 s  <<< ERROR!
+cucumber.deps.com.thoughtworks.xstream.converters.ConversionException: 
+Couldn't convert "a" to an instance of: [class java.lang.Integer, int]
+---- Debugging information ----
+-------------------------------
+
+| 3 | a |  Time elapsed: 0 s  <<< ERROR!
+cucumber.deps.com.thoughtworks.xstream.converters.ConversionException: 
+Couldn't convert "a" to an instance of: [class java.lang.Integer, int]
+---- Debugging information ----
+-------------------------------
+
